@@ -1,1 +1,9 @@
 theme: jekyll-theme-architect
+# Site settings
+title: 随便啟名的blog
+SEOTitle: 随便啟名的blog
+email: zhongqc7@gmail.com
+description: "泡在android世界的日子"
+keyword: ""
+url: "http://www.zhongqc.top"              # your host, for absolute URL
+baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
